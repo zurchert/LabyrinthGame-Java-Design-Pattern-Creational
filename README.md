@@ -1,4 +1,4 @@
-# LabyrinthGame-Java-Design-Pattern-Creational
+f# LabyrinthGame-Java-Design-Pattern-Creational
 Creational Design Pattern training exercice
 
 The given source code consists in a game, in which robots (whose behaviour are defined in dedicated classes) try to escape from a labyrinth

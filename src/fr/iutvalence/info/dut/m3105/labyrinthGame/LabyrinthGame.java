@@ -23,7 +23,6 @@ public class LabyrinthGame
 		this.robotAI = robotAI;
 		this.robotPosition = this.labyrinth.getStartingPosition();
 		this.robotDirection = Direction.NORTH;
-
 		this.turnNumber = 1;
 	}
 
